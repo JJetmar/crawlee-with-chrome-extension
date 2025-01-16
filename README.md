@@ -3,7 +3,7 @@
 # How to use own extension
 
 1. Download [CRX Extractor/Downloader](https://chromewebstore.google.com/detail/crx-extractordownloader/ajkhmmldknmfjnmeedkbkkojgobmljda)
-2. Find your favourite Chrome extension on (Google Web Store](https://chromewebstore.google.com/)
+2. Find your favourite Chrome extension on [Google Web Store](https://chromewebstore.google.com/)
 3. Use CRX Extractor/Downloader to download your selected extension as a Zip
 4. Export the Archive to your project
 5. Setup the path to your extension:
